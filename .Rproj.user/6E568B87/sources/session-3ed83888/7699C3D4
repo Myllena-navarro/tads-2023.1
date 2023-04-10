@@ -1,0 +1,27 @@
+{
+    "id": "7699C3D4",
+    "path": "/cloud/project/git.R",
+    "project_path": "git.R",
+    "type": "r_source",
+    "hash": "3492985279",
+    "contents": "",
+    "dirty": false,
+    "created": 1681127534547.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "3,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1681128132,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1681128132323,
+    "read_only": false,
+    "read_only_alternatives": []
+}
